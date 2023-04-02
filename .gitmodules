@@ -1,0 +1,9 @@
+[submodule "addons/zsh-syntax-highlighting"]
+	path = addons/zsh-syntax-highlighting
+	url = https://github.com/zsh-users/zsh-syntax-highlighting
+[submodule "addons/zsh-autosuggestions"]
+	path = addons/zsh-autosuggestions
+	url = https://github.com/zsh-users/zsh-autosuggestions
+[submodule "addons/cheatsheets"]
+	path = addons/cheatsheets
+	url = https://github.com/cheat/cheatsheets
