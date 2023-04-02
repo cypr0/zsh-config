@@ -1,7 +1,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=flat-square)
-![GitHub](https://img.shields.io/github/license/cypr0/mac-hardening?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/cypr0/mac-hardening?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cypr0/mac-hardening?style=flat-square)
+![GitHub](https://img.shields.io/github/license/cypr0/zsh-config?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/cypr0/zsh-config?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/cypr0/zsh-config?style=flat-square)
 ![macOS](https://img.shields.io/badge/os-macOS-blue?style=flat-square)
 
 # Customizing your Mac's Zsh-Shell.
