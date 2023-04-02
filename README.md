@@ -25,4 +25,4 @@ The following [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodul
 
 ## How it's look like
 
-<img src="zsh-prompt.png" width="25%">
+<img src="zsh-prompt.png" width="50%">
