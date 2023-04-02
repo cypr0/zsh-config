@@ -22,3 +22,7 @@ The following [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodul
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) to enable syntax highlighting for the commands entered at the prompt.
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) to enable autosuggestions after the prompt.
 * [cheat/cheatsheets](https://github.com/cheat/cheatsheets) for use with the [`cheat` command](https://github.com/cheat/cheat). The cheat command was installed using brew, but the cheatsheets are stored here. (See also the [cheat config file](addons/miscdotfiles/cheat/conf.yml).)
+
+## How it's look like
+
+<img src="https://raw.githubusercontent.com/cypr0/zsh-config/main/zsh-prompt.png" width="25%">
