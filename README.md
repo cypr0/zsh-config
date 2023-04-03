@@ -26,3 +26,7 @@ The following [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodul
 ## How it's look like
 
 <img src="zsh-prompt.png" width="50%">
+
+# Contributing
+
+Do you want to contribute? That’s great! Contributions are always welcome, no matter how large or small. If you found something odd, feel free to [submit a new issue](https://github.com/cypr0/mac-hardening/issues/), improve the code by [creating a pull request](https://github.com/cypr0/mac-hardening/pulls/), or by [sponsoring this project](https://github.com/sponsors/cypr0/).
