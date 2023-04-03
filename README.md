@@ -23,6 +23,13 @@ The following [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodul
 * [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) to enable autosuggestions after the prompt.
 * [cheat/cheatsheets](https://github.com/cheat/cheatsheets) for use with the [`cheat` command](https://github.com/cheat/cheat). The cheat command was installed using brew, but the cheatsheets are stored here. (See also the [cheat config file](addons/miscdotfiles/cheat/conf.yml).)
 
+## Install with zsh-config.sh
+
+The repo contains a script called ['zsh-config.sh'](zsh-config.sh) which checks all the prerequisites for the customized Zsh-Shell and will install missing packages. Moreover, it copies the [`.zshrc`](.zshrc) to your $HOME location.
+
+> **Note**
+> You first have to make the script executable by 'chmod +x ['zsh-config.sh'](zsh-config.sh)'
+
 ## How it's look like
 
 <img src="zsh-prompt.png" width="50%">
