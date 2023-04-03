@@ -25,10 +25,10 @@ The following [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodul
 
 ## Install with zsh-config.sh
 
-The repo contains a script called ['zsh-config.sh'](zsh-config.sh) which checks all the prerequisites for the customized Zsh-Shell and will install missing packages. Moreover, it copies the [`.zshrc`](.zshrc) to your $HOME location.
+The repo contains a script called [`zsh-config.sh`](zsh-config.sh) which checks all the prerequisites for the customized Zsh-Shell and will install missing packages. Moreover, it copies the [`.zshrc`](.zshrc) to your $HOME location.
 
 > **Note**
-> You first have to make the script executable by 'chmod +x ['zsh-config.sh'](zsh-config.sh)'
+> You first have to make the script executable by `chmod +x [zsh-config.sh](zsh-config.sh)`
 
 ## How it's look like
 
