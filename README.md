@@ -36,4 +36,4 @@ The repo contains a script called [`zsh-config.sh`](zsh-config.sh) which checks 
 
 ## Contributing
 
-Do you want to contribute? That’s great! Contributions are always welcome, no matter how large or small. If you found something odd, feel free to [submit a new issue](https://github.com/cypr0/mac-hardening/issues/), improve the code by [creating a pull request](https://github.com/cypr0/mac-hardening/pulls/), or by [sponsoring this project](https://github.com/sponsors/cypr0/).
+Do you want to contribute? That’s great! Contributions are always welcome, no matter how large or small. If you found something odd, feel free to [submit a new issue](https://github.com/cypr0/zsh-config/issues/), improve the code by [creating a pull request](https://github.com/cypr0/zsh-config/pulls/), or by [sponsoring this project](https://github.com/sponsors/cypr0/).
