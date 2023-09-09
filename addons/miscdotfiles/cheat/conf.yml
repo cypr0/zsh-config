@@ -35,6 +35,6 @@ cheatpaths:
   # Note that the paths and tags listed below are just examples. You may freely
   # change them to suit your needs.
   - name: community
-    path: ~/repos/zsh-config/addons/cheatsheets/
+    path: ~/Repositories/zsh-config/addons/cheatsheets/
     tags: [ community ]
     readonly: true

@@ -24,6 +24,12 @@ if ! which brew | grep -si brew; then
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 fi
 
+# Checking for nodenv
+if ! which nodenv | grep -si nodenv; then
+  echo "nodenv is not installed. We have to change that."
+  brew update && brew install nodenv
+fi
+
 # Checking for Oh-my-posh
 if ! brew ls --versions oh-my-posh | grep -si oh-my-posh; then
   echo "Oh-my-posh is not installed. We have to change that."

@@ -20,7 +20,7 @@ source $ZSH/oh-my-zsh.sh
 ######## Customizations ########
 
 ## Path to the dir containing my zsh scripts
-export ZSH_ADDONS_DIR=$HOME/repos/zsh-config/addons
+export ZSH_ADDONS_DIR=$HOME/Repositories/zsh-config/addons
 
 ## Load Oh My Posh and my custom theme
 eval "$(oh-my-posh init zsh --config $ZSH_ADDONS_DIR/themes/clean-detailed-customized.omp.json)"
